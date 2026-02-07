@@ -1,0 +1,21 @@
+commit fbf2d749d822f858803f50daf95db7c53efb172c
+Author: kushalpatel71 <kdp68@njit.edu>
+Date:   Sat Feb 7 14:00:21 2026 -0500
+
+    Revert "Added the hostname more commits and testiing file"
+    
+    This reverts commit cae9c32d8c4f542acb386e731e44b804817b9c1d.
+
+commit cae9c32d8c4f542acb386e731e44b804817b9c1d
+Author: kushalpatel71 <kdp68@njit.edu>
+Date:   Sat Feb 7 13:04:09 2026 -0500
+
+    Added the hostname more commits and testiing file
+
+commit 101db4e815f8966cb95b4bbf14d52dca6d4c2e77
+Author: kushalpatel71 <kdp68@njit.edu>
+Date:   Sat Feb 7 11:27:58 2026 -0500
+
+    Initial commit
+    Initial Starting Point of the repo.
+    Creating the repository for initialising the github and testing it.
